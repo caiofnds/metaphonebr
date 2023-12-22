@@ -1,6 +1,6 @@
 {
   "name": "metaphonebr",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Metaphone",
   "main": "index.js",
   "types": "index.d.ts",
@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/caiofnds/metaphonebr.git"
   },
-  "author": "Botmax <contato@botmax.com.br>",
-  "license": "UNLICENSED",
+  "author": "Caio Flores Duarte <caio@piped.com.br>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/caiofnds/metaphonebr/issues"
   },
